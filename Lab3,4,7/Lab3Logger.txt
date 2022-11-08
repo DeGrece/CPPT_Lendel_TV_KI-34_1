@@ -1,0 +1,60 @@
+House is created.
+Set address: City: Lviv, St. Stepana Bandera 12.
+Human is created.
+Call toString from Human class.
+Set owner: Bobaylo Yuriy.
+Set square meters: 2000.0.
+Call toString from House class.
+Call toString from Human class.
+Human is created.
+Set firstname: Geogiy.
+Set lastname: Sidorov.
+Call toString from Human class.
+Human is created.
+Set firstname: Geogiy.
+Set lastname: Sidorov.
+Call toString from Human class.
+Human is created.
+Set firstname: Geogiy.
+Set lastname: Sidorov.
+Call toString from Human class.
+Human is created.
+Set firstname: Geogiy.
+Set lastname: Sidorov.
+Call toString from Human class.
+Human is created.
+Set firstname: Geogiy.
+Set lastname: Sidorov.
+Human is created.
+Set firstname: Geogiy.
+Set lastname: Sidorov.
+Human is created.
+Set firstname: Geogiy.
+Set lastname: Sidorov.
+Human is created.
+Set firstname: Geogiy.
+Set lastname: Sidorov.
+House is created.
+Set address: City: Lviv, St. Stepana Bandera 12.
+Human is created.
+Call toString from Human class.
+Set owner: Bobaylo Yuriy.
+Set square meters: 2000.0.
+Call toString from House class.
+Call toString from Human class.
+Human is created.
+Set firstname: Geogiy.
+Set lastname: Sidorov.
+Call toString from Human class.
+House is created.
+Set address: City: Lviv, St. Stepana Bandera 12.
+Human is created.
+Call toString from Human class.
+Set owner: Bobaylo Yuriy.
+Set square meters: 2000.0.
+Call toString from House class.
+Call toString from Human class.
+Human is created.
+Set firstname: Geogiy.
+Set lastname: Sidorov.
+Call toString from Human class.
